@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Default English resource for string -->
+<resources>
+	<!--- Main Activity -->
+	<string name="menu_list">Menu List</string>
+	<string name="select_menu">Select Today\'s Menu</string>
+
+	<!-- Select Menu Activity -->
+	<string name="today_menu">Todays Menu Is ...</string>
+	<string name="menu_lot">Try your luck</string>
+	<string name="menu_select">Select yourself</string>
+	<!---Select Menu Dailog -->
+	<string name="optional">Optional Settings</string>
+	<string name="register">Register</string>
+	<string name="success_add_log">{0} has been registered as Today\'s Lunch.</string>
+	<string name="fail_add_log">{0} could not be registered. Check input values.</string>
+
+	<!-- Menu List Activity -->
+	<string name="add_menu">Add Menu</string>
+	<string name="selected_times">Selected:</string>
+	<string name="times">times</string>
+	<string name="kcal">kcal</string>
+	<string name="pre_cost">$</string>
+	<string name="post_cost"></string>
+	<!---Add Menu Dialog -->
+	<string name="menu_name_hint">Menu Name</string>
+	<string name="calory_hint">Calory(kcal)</string>
+	<string name="cost_hint">Cost($)</string>
+	<string name="success_add_menu">New Menu {0} has been added.</string>
+	<string name="fail_add_menu">Menu {0} could not be added. Check input values.</string>
+
+	<!---Common -->
+	<string name="add">Add</string>
+	<string name="select">Select</string>
+	<string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 日本語文字列のリソース -->
+<resources>
+	<!--- Main Activity -->
+	<string name="menu_list">メニュー一覧</string>
+	<string name="select_menu">今日のメニューを選択する</string>
+
+	<!-- Menu Select Activity -->
+	<string name="today_menu">今日のメニューは ... </string>
+	<string name="menu_lot">運試し</string>
+	<string name="menu_select">自分で選択</string>
+	<!---Select Menu Dailog -->
+	<string name="optional">追加設定</string>
+	<string name="success_add_log">{0} を今日のランチとして登録しました。</string>
+	<string name="fail_add_menu">{0} が追加できませんでした。入力を確認してください。</string>
+
+	<!-- Menu List Activity -->
+	<string name="add_menu">メニューの追加</string>
+	<string name="selected_times">選択された回数:</string>
+	<string name="times">回</string>
+	<string name="pre_cost"></string>
+	<string name="post_cost">円</string>
+	<!---Add Menu Dialog -->
+	<string name="menu_name_hint">メニュー名</string>
+	<string name="calory_hint">カロリー(kcal)</string>
+	<string name="cost_hint">値段(円)</string>
+	<string name="success_add_menu">{0} をメニューに追加しました。</string>
+	<string name="fail_add_menu">{0} が追加できませんでした。入力を確認してください。</string>
+
+	<!---Common -->
+	<string name="add">追加</string>
+	<string name="select">メニューを選択</string>
+	<string name="cancel">キャンセル</string>
+</resources>
