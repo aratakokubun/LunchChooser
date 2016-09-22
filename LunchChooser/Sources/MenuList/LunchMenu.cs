@@ -11,7 +11,7 @@ namespace LunchChooser
 			this.name = name;
 			this.calory = calory;
 			this.cost = cost;
-			this.createdAt = DateTime.Now;
+			this.created = DateTime.Now;
 			this.deleted = false;
 		}
 
@@ -38,7 +38,7 @@ namespace LunchChooser
 			set;
 		}
 
-		public DateTime createdAt {
+		public DateTime created {
 			get;
 			set;
 		}

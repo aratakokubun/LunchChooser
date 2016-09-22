@@ -6,7 +6,7 @@
 	<string name="select_menu">Select Today\'s Menu</string>
 
 	<!-- Select Menu Activity -->
-	<string name="today_menu">Todays Menu Is ...</string>
+	<string name="today_menu">Today\'s Menu Is ...</string>
 	<string name="menu_lot">Try your luck</string>
 	<string name="menu_select">Select yourself</string>
 	<!---Select Menu Dailog -->
@@ -14,6 +14,11 @@
 	<string name="register">Register</string>
 	<string name="success_add_log">{0} has been registered as Today\'s Lunch.</string>
 	<string name="fail_add_log">{0} could not be registered. Check input values.</string>
+	<!---Lot Menu Dialog -->
+	<string name="slot_menu">Slot Menu</string>
+	<string name="selected_menu_is">Selected Menu Is ...</string>
+	<string name="confirm_lot_menu">Confirm</string>
+	<string name="cancel_lot_menu">Cancel</string>
 
 	<!-- Menu List Activity -->
 	<string name="add_menu">Add Menu</string>
@@ -33,4 +38,5 @@
 	<string name="add">Add</string>
 	<string name="select">Select</string>
 	<string name="cancel">Cancel</string>
+	<string name="dummy"></string>
 </resources>

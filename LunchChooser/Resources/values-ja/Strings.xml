@@ -11,8 +11,14 @@
 	<string name="menu_select">自分で選択</string>
 	<!---Select Menu Dailog -->
 	<string name="optional">追加設定</string>
+	<string name="register">登録</string>
 	<string name="success_add_log">{0} を今日のランチとして登録しました。</string>
 	<string name="fail_add_menu">{0} が追加できませんでした。入力を確認してください。</string>
+	<!---Lot Menu Dialog -->
+	<string name="slot_menu">メニュースロットを回す</string>
+	<string name="selected_menu_is">選ばれたのは ...</string>
+	<string name="confirm_lot_menu">メニューを確定</string>
+	<string name="cancel_lot_menu">キャンセル</string>
 
 	<!-- Menu List Activity -->
 	<string name="add_menu">メニューの追加</string>

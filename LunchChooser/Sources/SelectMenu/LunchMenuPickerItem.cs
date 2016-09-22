@@ -1,6 +1,6 @@
 ﻿using System;
 using Android.Graphics.Drawables;
-using SlotPicker;
+using LunchChooser;
 
 namespace LunchChooser
 {
